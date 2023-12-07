@@ -42,8 +42,4 @@ public class ventana1 {
 /**
 	 * Añado diálogo.
 	 */
-
-	 /**
-	 * Añado diálogo 2.
-	 */
 }
